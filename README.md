@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gunjank1998
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning angularjs
-- 💞️ I’m looking to  on 
 - 📫 Reach me by sending action="mailto:gunjank1998@gmail.com"
 
 <!---
